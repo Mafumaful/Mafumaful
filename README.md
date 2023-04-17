@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mafumaful
-- 👀 I’m computer science and robotics
+- 👀 I’m working on Cyber Security System
 - 🌱 I’m currently learning resilient control on Autopilot
 - 📫 You can reach me on <u>s6bian@uwaterloo.ca</u>
 
